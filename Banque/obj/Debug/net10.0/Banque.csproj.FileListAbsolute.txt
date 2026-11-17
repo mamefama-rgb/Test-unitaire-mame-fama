@@ -1,0 +1,11 @@
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\bin\Debug\net10.0\Banque.deps.json
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\bin\Debug\net10.0\Banque.dll
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\bin\Debug\net10.0\Banque.pdb
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.AssemblyInfoInputs.cache
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.AssemblyInfo.cs
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.csproj.CoreCompileInputs.cache
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.dll
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\refint\Banque.dll
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\Banque.pdb
+C:\Users\mame fama\Downloads\M2\NET-Ecosystem 5\Banque\Banque\obj\Debug\net10.0\ref\Banque.dll
